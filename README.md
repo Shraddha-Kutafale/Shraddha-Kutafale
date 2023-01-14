@@ -5,7 +5,7 @@
 
 
 
-I am a highly motivated and passionate individual currently pursuing a Master's degree in Computer Science (MCM). I am always looking to expand my knowledge and skills in the field of technology.
+I am a highly motivated and passionate individual currently pursuing a Master's degree in Computer Management (MCM). I am always looking to expand my knowledge and skills in the field of technology.
 
 Currently, I am focused on learning and mastering the concepts of MCM. My areas of expertise include C, C++, and I am always willing to discuss and share my knowledge on these topics.
 
